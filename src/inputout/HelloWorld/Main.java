@@ -1,4 +1,4 @@
-package input_output;
+package inputout.HelloWorld;
 
 public class Main {
 
