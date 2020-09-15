@@ -32,6 +32,7 @@ public class Main {
 				} // end if
 			} // end for
 		} // end if
+		sc.close();
 		System.out.println(burger + drink - 50);
 	} // main
 
